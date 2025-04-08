@@ -1,22 +1,14 @@
 - ```python
-
-print(## "git branch")
-
+## print("git branch")
 ```
 - ```python
-
 print(## "git checkout")
-
 ```
 - ```python
-
 print(## "git pull")
-
 ```
 - ```python
-
 print(## "git add")
-
 ```
 - ```python
 
