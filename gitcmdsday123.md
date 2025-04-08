@@ -1,107 +1,109 @@
+# GIT Commands
+
 - ```python
 ## print("git branch")
+
+- ```python
+## print("git checkout")
 ```
 - ```python
-print(## "git checkout")
+## print("git pull")
 ```
 - ```python
-print(## "git pull")
-```
-- ```python
-print(## "git add")
+## print("git add")
 ```
 - ```python
 
-print(## "git commit")
-
-```
-- ```python
-
-print(## "git merge")
+## print("git commit")
 
 ```
 - ```python
 
-print(## "git diff")
+## print("git merge")
 
 ```
 - ```python
 
-print(## "git rebase")
+## print("git diff")
 
 ```
 - ```python
 
-print(## "git push")
+## print("git rebase")
 
 ```
 - ```python
 
-print(## "git status")
+## print("git push")
 
 ```
 - ```python
 
-print(## "git log --oneline --graph --all")
+## print("git status")
 
 ```
 - ```python
 
-print(## "git config")
+## print("git log --oneline --graph --all")
 
 ```
 - ```python
 
-print(## "git reset")
+## print("git config")
 
 ```
 - ```python
 
-print(## "git log")
+## print("git reset")
 
 ```
 - ```python
 
-print(## "git reflog")
+## print("git log")
 
 ```
 - ```python
 
-print(## "git stash")
+## print("git reflog")
 
 ```
 - ```python
 
-print(## "git slash list")
+## print("git stash")
 
 ```
 - ```python
 
-print(## "git stash apply")
+## print("git slash list")
 
 ```
 - ```python
 
-print(## "git stash clear")
+## print("git stash apply")
 
 ```
 - ```python
 
-print(## "git clean")
+## print("git stash clear")
 
 ```
 - ```python
 
-print(## "git cherry-pick")
+## print("git clean")
 
 ```
 - ```python
 
-print(## "git tag")
+## print("git cherry-pick")
 
 ```
 - ```python
 
-print(## "git show")
+## print("git tag")
+
+```
+- ```python
+
+## print("git show")
 
 ```
