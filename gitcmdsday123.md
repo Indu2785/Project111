@@ -2,10 +2,10 @@
 
 - ```python 
 ## print("git branch")
-```
+
 - ```python
 ## print("git checkout")
-```
+
 - ```python
 ## print("git pull")
 ```
