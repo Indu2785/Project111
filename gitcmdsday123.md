@@ -1,8 +1,8 @@
 # GIT Commands
 
-- ```python
-  ## print("git branch")
-  ```
+- ```python 
+## print("git branch")
+```
 - ```python
 ## print("git checkout")
 ```
